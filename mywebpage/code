@@ -40,82 +40,84 @@
 				<div class="row">
 					<div class="col-md-4">
 						<br><br>
-						<h1> Екатерина Герасимова</h1>
+						<h1 style="text-shadow: #394c14 1px 2px 1px; font-family:'Times New Roman', Times, serif"> Екатерина Герасимова</h1>
 						<hr> 
-						<p><i>Человек, <b> пока что </b> не умеющий создавать </i> <b> HTML </b> <em font-weigh: lighter>(но очень старающийся!).</em></p> 
+						<p style="color: wheat; text-shadow: #394c14 1px 2px 1px;"><i>Человек, <b> пока что </b> не умеющий создавать </i> <b> HTML </b> <em font-weigh: lighter>(но очень старающийся!).</em></p> 
+						<img src="file:///var/folders/mt/w0wh9vk15k3cmvxwhshktcrm0000gp/T/ru.keepcoder.Telegram/IMAGE%202023-09-14%2000:08:22.jpg" style="border-radius: 30% 30% 30% 30%; image-resolution:100%; border: 2px solid rgb(78, 105, 25); height:120%; width:80%; position:absolute; border-right:;">
 					</div>
 					<div class="col-md-4">
-<img src="https://github.com/RinaGer/lingdata/blob/main/mywebpage/IMAGE%202023-09-11%2015:45:15.jpg?raw=true" style="height: 360px; margin-left:200px; margin-top:200px " >
+<img src="file:///Users/user/Downloads/photo_2023-09-13%2000.23.49.jpeg" style="border-radius: 30% 30% 30% 30%; height:120%; width:120%; border: 2px solid rgb(78, 105, 25); margin-right: 400px;">
 					</div>
 				</div>
-				<div class="col-md-3">
-					<h3><b> Мои контакты </b></h3>
-						   <ul>
-							   <li><a href=https://vk.com/prostokatus style="color: rgb(26, 25, 25)"> VK </a> </li>
-							   <li><a href=https://t.me/pomidorchik_rina style="color: rgb(26, 25, 25)"> Telegram </a> </li>
-							   <li><a style="color: rgb(26, 25, 25)"> Gmail.com - kateringerasim@gmail.com </a></li>
-							   <li><a style="color:rgb(26, 25, 25)"> Yandex.mail - eigerasimova@edu.hse.ru </a></li>
+				<div class="col-md-3" style="position: absolute; left: 1000px;">
+					<h3 style="position: absolute; bottom: 300px; font-family:'Times New Roman', Times, serif; text-shadow: #394c14 0.5px 1px 1px"><b> Мои контакты </b></h3>
+					<hr color="wheat">
+						   <ul style="position: absolute; bottom: 200px">
+							   <li><a href=https://vk.com/prostokatus style="color:wheat; text-shadow: #394c14 1px 2px 1px"> VK </a> </li>
+							   <li><a href=https://t.me/pomidorchik_rina style="color: wheat; text-shadow: #394c14 1px 2px 1px"> Telegram </a> </li>
+							   <li><a style="color: wheat; text-shadow: #394c14 1px 2px 1px"> Gmail.com - kateringerasim@gmail.com </a></li>
+							   <li><a style="color:wheat; text-shadow: #394c14 1px 2px 1px"> Yandex.mail - eigerasimova@edu.hse.ru </a></li>
 						   </ul>
-				  </div>
+				</div>
 			</div>
 		</header>
 
-		<section id="portfolio">
+		<section id="portfolio" style="background-color: wheat;">
 			<div class="container">
 
 
-				<div class="col-md-2">
+				<div class="col-md-2" style="margin-block: 10%; margin-bottom: 10%; position:relative">
 
 					<article>
-						<h3>Место учебы</h3>
-						<p style="color: olivedrab;"> Фундаментальная и компьютерная лингвистика, НИУ ВШЭ, Москва </p>
+						<h3 style="text-shadow: #394c14 1px 2px 1px">Место учебы</h3>
+						<p style="color: olivedrab; text-shadow: #394c14 0.5px 0.5px 0.5px"> Фундаментальная и компьютерная лингвистика, НИУ ВШЭ, Москва </p>
 					</article>
 					<article>
-						<h3>Родной город</h3>
-						<p style="color:olivedrab">Москва</p>
+						<h3 style="text-shadow: #394c14 1px 2px 1px">Родной город</h3>
+						<p style="color:olivedrab; text-shadow: #394c14 0.5px 0.5px 0.5px">Москва</p>
 					</article>
 					<article>
-						<h3>Школа</h3>
-						<p style="color: olivedrab">1205 "Диалог"</p>
+						<h3 style="text-shadow: #394c14 1px 2px 1px">Школа</h3>
+						<p style="color: olivedrab; text-shadow: #394c14 0.5px 0.5px 0.5px">1205 "Диалог"</p>
 					</article>
 				</div>
 
-				<div class="col-md-6">
+				<div class="col-md-6" style=" margin-block: 10%; margin-bottom: 10%; position:relative; scroll-margin-left: 60%;">
 					<article>
 						<h3><style>
                         .bigtext{ font-size:40pt Какая информация обо мне вам может пригодиться}</style></h3>
-						<b><h3>Полезная информация</b></h3></b><br>
-                                <big>Фактики</big>
+						<b><h3 style="text-shadow: #394c14 1px 2px 1px">Полезная информация</b></h3></b><br>
+                                <big><strong style="text-shadow: #394c14 0.5px 1px 1px">Фактики</strong></big>
                                 <ol>
-                                    <i> <li>увлекаюсь волейболом и фигурным катанием</li>
-                                        <li>окончила курс обучения игре на домре (9 лет)</li>
-                                        <li>состояла в школьном активе, принимая участия в организации и проведении массовых мероприятий</li>
-                                        <li>интересуюсь волонтёрством</li>
-                                        <li>языки - русский, английский, испанский (базовый)</li>
+                                    <i> <li style="color:olivedrab; text-shadow: #394c14 0.5px 0.5px 0.5px">Увлекаюсь волейболом и фигурным катанием</li>
+                                        <li style="color:olivedrab; text-shadow: #394c14 0.5px 0.5px 0.5px">Окончила курс обучения игре на домре (9 лет)</li>
+                                        <li style="color:olivedrab; text-shadow: #394c14 0.5px 0.5px 0.5px">Состояла в школьном активе, принимая участия в организации и проведении массовых мероприятий</li>
+                                        <li style="color:olivedrab; text-shadow: #394c14 0.5px 0.5px 0.5px">Интересуюсь волонтёрством</li>
+                                        <li style="color:olivedrab; text-shadow: #394c14 0.5px 0.5px 0.5px">Языки - русский, английский, испанский (базовый)</li>
                                     </i>
                                 </ol>
-                                <big>Немножко additional information</big>
+                                <big><strong style="text-shadow: #394c14 0.5px 1px 1px">Немножко additional information</strong></big>
                                 <ol>
-                                    <i> <li>ездила в лагерь "Английский клуб" на протяжении 9 лет пионером, далее - 1 год вожатой</li>
-                                        <li>интересуюсь психологией</li>
-                                        <li>люблю наблюдать за людьми, слушать их истории и обмениваться знаниями и опытом</li>
-                                        <li>искренне люблю учиться, но учиться не любит меня (торможу)</li>
-                                        <li>нравится знакомиться и общаться с новыми людьми, но быстро устаю</li>
+                                    <i> <li style="color:olivedrab; text-shadow: #394c14 0.5px 0.5px 0.5px">Ездила в лагерь "Английский клуб" на протяжении 9 лет пионером, далее - 1 год вожатой</li>
+                                        <li style="color:olivedrab; text-shadow: #394c14 0.5px 0.5px 0.5px">Интересуюсь психологией</li>
+                                        <li style="color:olivedrab; text-shadow: #394c14 0.5px 0.5px 0.5px">Люблю наблюдать за людьми, слушать их истории и обмениваться знаниями и опытом</li>
+                                        <li style="color:olivedrab; text-shadow: #394c14 0.5px 0.5px 0.5px">Искренне люблю учиться, но учиться не любит меня (торможу)</li>
+                                        <li style="color:olivedrab; text-shadow: #394c14 0.5px 0.5px 0.5px">Нравится знакомиться и общаться с новыми людьми, но быстро устаю</li>
                                     </i>
                                 </ol>
-                                <big>Личное</big>
+                                <big><strong style="text-shadow: #394c14 0.5px 1px 1px">Личное</strong></big>
                                 <ol>
-                                    <i> <li>не представляю своей жизни без дайфукумоти "Пина Колада"</li>
-                                        <li>в восторге от азиатской, русской и белорусской кухни</li>
-                                        <li>не склонна к вредным привычкам, но жареная картошка говорит сама за себя</li>
-                                        <li>очень люблю помогать людям, но не во вред себе</li>
+                                    <i> <li style="color:olivedrab; text-shadow: #394c14 0.5px 0.5px 0.5px">Не представляю своей жизни без дайфукумоти "Пина Колада"</li>
+                                        <li style="color:olivedrab; text-shadow: #394c14 0.5px 0.5px 0.5px">В восторге от азиатской, русской и белорусской кухни</li>
+                                        <li style="color:olivedrab; text-shadow: #394c14 0.5px 0.5px 0.5px">Не склонна к вредным привычкам, но жареная картошка говорит сама за себя</li>
+                                        <li style="color:olivedrab; text-shadow: #394c14 0.5px 0.5px 0.5px">Очень люблю помогать людям, но не во вред себе</li>
                                     </i>
                                 </ol>
 						</p>
+						<img src="file:///var/folders/mt/w0wh9vk15k3cmvxwhshktcrm0000gp/T/ru.keepcoder.Telegram/IMAGE%202023-09-14%2001:26:22.jpg" style="border: 2px solid rgb(78, 105, 25); border-radius: 30% 30% 30% 30%; height: 70%; width: 70%; position:absolute; left:110%; bottom: 30%">
 					</article>
 				</div>
 
-				
 			</div>
 		</section>
 
